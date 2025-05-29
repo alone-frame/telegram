@@ -1,0 +1,13 @@
+{
+  "name":"alone-frame/telegram",
+  "license":"MIT",
+  "require":{
+    "php":">=8.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "AloneFrame\\telegram\\":"src",
+      "AloneFrame\\tel\\":"app"
+    }
+  }
+}
