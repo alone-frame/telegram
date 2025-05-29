@@ -1,3 +1,8 @@
+```text
+composer config repositories.alone-frame/telegram vcs http://git.cn/alone-frame/telegram
+composer require alone-frame/telegram:dev-main
+```
+
 ### 发送使用例
 
 ```php
